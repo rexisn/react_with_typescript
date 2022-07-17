@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World",
+      "author": "NDIZIHIWE Regis",
+      "body": "Hello world\nBonjour le monde",
+      "id": 1
+    }
+  ]
+}
